@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+-<menu>
+
+<loginclick>//a[normalize-space()='Log in']</loginclick>
+
+<email>//*[@id='user_email']/email>
+
+<password>//*[@id='user_password']</password>
+
+<signup>//*[@name='commit']</signup>
+
+</menu>
