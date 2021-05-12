@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="84.272792">
-<testcase classname="Test About Us Functionality" name="Check user can see about us" time="34.149746">
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="284.055137">
+<testcase classname="Test About Us Functionality" name="Check user can see about us" time="58.535484">
 <system-out><![CDATA[Given user is on about us page..............................................passed
 When user clicks about us link..............................................passed
 Then about us page is opened................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Test About Us Functionality" name="Check user can view careers" time="12.260443">
+<testcase classname="Test About Us Functionality" name="Check user can view careers" time="20.46461">
 <system-out><![CDATA[Given user is on about us page on the website...............................passed
 When user should click carrers link.........................................passed
 Then careers page is viewed.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Test About Us Functionality" name="Check user should navigate blogs" time="37.862603">
+<testcase classname="Test About Us Functionality" name="Check user should navigate blogs" time="205.055043">
 <system-out><![CDATA[Given user views the blogs link.............................................passed
 When user clicks on blogs...................................................passed
 Then blogs gets open........................................................passed
